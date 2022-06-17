@@ -1,0 +1,151 @@
+.universe_mahadev{
+    width: 90%;
+    margin: auto;
+   
+}
+
+#universe_001{
+    display: flex;
+    /* border: 1px solid; */
+   
+   
+}
+.mug{
+    /* justify-content: space-evenly; */
+    /* border: 1px solid red; */
+    width: 408px;
+}
+.mug>div{
+    border: 1px solid ;
+    background-color: #EAEAEA;
+
+}
+.table{
+    height: 96%;
+    width: 91%;
+    margin-left: 43px;
+}
+.spg{
+    height: 257px;
+}
+.spg1{
+    height: 257px;
+    background-color: aquamarine;
+}
+.might{
+    text-align: center;
+}
+
+label{
+    font-size: 16px;
+    font-weight: 400;
+    color: #2f333f;
+    line-height: 19px;
+    font-style: normal;
+    font-family: Arial, Helvetica, sans-serif;
+    /* background-color: darkgray; */
+    color: red;
+}
+
+
+/* *********************************************************************************************************** */
+#container_777{
+    display: grid;
+    grid-template-columns: repeat(4,1fr);
+    grid-template-rows: repeat(3,auto);
+    gap: 20px;
+   text-align: center;
+   margin-top: 35px;
+  }
+  #container_89{
+    display: grid;
+    grid-template-columns: repeat(4,1fr);
+    grid-template-rows: repeat(3,auto);
+    gap: 20px;
+   text-align: center;
+   margin-top: 35px;
+  }
+  
+  #container_777{
+    
+    margin-top: 30px;
+    border-radius: 10px;
+    border: 1px solid ;
+    ;
+   
+  }
+  #container_89>div{
+    margin-top: 217px;
+    border-radius: 10px;
+    /* border: 1px solid ; */
+    box-shadow: 0 0 10px blue;
+  }
+  div>img{
+   width: 100%;
+   border-top-left-radius:10px ;
+   border-top-right-radius:10px ;
+  }
+ 
+  img{
+    width: 50%;
+    margin-top: -10px;
+  }
+  @media all and (min-width:480px) and (max-width:720px){
+    #container_777{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    grid-template-rows: repeat(4,auto);
+  }
+  h2{
+    font-size: 12px;
+   
+  }
+  
+
+  
+  }
+  
+  @media all and (min-width:280px) and (max-width:479px){
+    #container_777{
+    display: grid;
+    grid-template-columns: repeat(2,1fr);
+    grid-template-rows: repeat(6,auto);
+  }
+  h2{
+    font-size: 12px;
+  }
+}
+.catr{
+    text-align: center;
+    margin-top: 51px;
+}
+
+.bar_stool{
+    display: flex; 
+    margin-top: 30px;
+    gap: 30px;
+  }
+  #stol{
+    height: 231px;
+  }
+  .osk{
+    height: 312px;
+    width: 669px;
+  }
+ #kkh{
+    background-color: #C1B6B5;
+ }
+ #jkd{
+    height: 37px;
+    width: 102px;
+ }
+ .bar_stool1{
+    display: flex; 
+    margin-top: 70px;
+    gap: 30px;
+
+  }
+  .osk1{
+    height: 341px;
+    width: 669px;
+  }

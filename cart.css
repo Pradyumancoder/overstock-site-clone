@@ -1,0 +1,114 @@
+#cart_box{
+    height: 540px;
+    width: 100%;
+
+    display: flex;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#cart_box>div{
+    height: 480px;
+    width: 620px;
+    margin: auto;
+    margin-top: 50px;
+    border: 1px solid;
+    
+}
+#optionwala{
+ height: 30px;
+ width: 120px;
+
+
+ margin-top: -45px;
+ margin-left: 62px;
+}
+.addto{
+    height: 60px;
+    width: 110px;
+    
+    margin-left: 200px;
+    margin-top: -55px;
+}
+.addto>button{
+    height: 40px;
+    width: 130px;
+    color:white;
+    background-color: #27865F;
+    margin-top: -50px;
+    position: relative;
+    top: --2px;
+
+}
+#q{
+
+position: relative;
+top: -5;
+}
+#qan{
+    height: 40px;
+    width: 10;
+   
+  
+}
+.heartbb{
+    height: 35px;
+    border: 1px solid blue;
+    width: 50px;
+    background-color: ;
+    text-align: center;
+}
+.heartbb:hover{
+    background-color: aquamarine;
+}
+.fa-solid{
+    font-size: 30px;
+}
+.fa-solid:hover{
+    color:#C7202C;
+    
+    
+    
+}
+.heartbb>div{
+    height: 35px;
+    width: 200px;
+    border: 1px solid blue;
+    margin-top: -31px;
+margin-left: 50px;
+
+}
+.heartbb>div>p{
+    position: relative;
+    top:4px ;
+    color: #C7202C;
+}
+.social_media{
+    text-align: center;
+    margin-top: 100px;
+    display: flex;
+    gap: 77px;
+    font-size: xxx-large;
+    margin-left: -656px;
+    width: 1029px;
+    /* border: 1px solid blue; */
+    /* background-color: cornflowerblue; */
+}
+#chota_div{
+    height: 200px;
+     width: 200px;
+     border: 1px solid red;
+}
+#chota_div img{
+    height: 200px;
+}
+#footer {
+    height: 430px;
+    width: 100%;
+    margin: auto;
+    background-color: #545658;
+    display: flex;
+    margin-top: 710px;
+
+    /* justify-content: space-between;
+    color: white; */
+
+}
